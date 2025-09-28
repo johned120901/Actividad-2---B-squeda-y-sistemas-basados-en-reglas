@@ -1,6 +1,0 @@
-"agency_id","agency_name","agency_url","agency_timezone","agency_lang","agency_phone","agency_fare_url","agency_email"
-"100634-3","Transmilenio-Urbana","https://www.transmilenio.gov.co/","America/Lima","es","(+57)601-482-4304","",""
-"100634-4","Transmilenio-Alimentadora","https://www.transmilenio.gov.co/","America/Lima","es","(+57)601-482-4304","",""
-"100634-5","Transmilenio-Complementaria","https://www.transmilenio.gov.co/","America/Lima","es","(+57)601-482-4304","",""
-"100634-6","Transmilenio-Especial","https://www.transmilenio.gov.co/","America/Lima","es","(+57)601-482-4304","",""
-"100634-7","Cable","https://www.transmilenio.gov.co/","America/Lima","es","(+57)601-482-4304","",""
